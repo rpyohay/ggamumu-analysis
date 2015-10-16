@@ -1,0 +1,11 @@
+*__init__.py
+*.pyc
+*~
+*.pdf
+*.png
+*.txt
+*.d
+*.so
+*.log
+*.history
+*.__afs*
